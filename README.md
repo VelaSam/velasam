@@ -14,4 +14,4 @@
 
 - 👨‍💻Yes I use Vim, not it doesn't make me a better dev than you (unlike what some may believe :D )
 
-- [📄 Download My PDF Document](https://github.com/VelaSam/velasam/raw/main/docs/resume.pdf)
+- 📄 Here is my [Resume](https://github.com/VelaSam/velasam/raw/main/docs/resume.pdf)
