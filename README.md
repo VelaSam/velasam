@@ -1,7 +1,7 @@
 # 🚀 **Samuel Velasco**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelvelascodev)  
 ## 🎸 I like Climbing, Tech and Music  
 
-   [![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat)](https://github.com/yourusername)
+   [![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat)](https://github.com/Velasam)
 
 - 🔭 I’m currently finishing school and giving Computer Science labs part time
 
