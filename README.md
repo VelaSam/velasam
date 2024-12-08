@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently finishing school and giving Computer Science labs part time
 
-- 🌱 I’m currently learning Rust and and about Operating Systems and working on my first V7
+- 🌱 I’m currently learning Rust, Operating Systems and React Native with Expo
 
 - 📫 Reach me at svelasco514@gmail.com (no my phone # doesn't start by 514, I made this email in 2010 expecting it to be 🐔) 
 
