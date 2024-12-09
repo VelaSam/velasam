@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VelaSam)
 
-- 🔭 I’m currently finishing school and giving Computer Science labs part time
+- 🔭 Finishing school and giving computer science labs
 
 - 🌱 I’m currently learning Rust, Operating Systems and React Native with Expo
 
