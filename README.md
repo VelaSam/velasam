@@ -15,3 +15,9 @@
 - 📫 Reach me at svelasco514@gmail.com (no my phone # doesn't start by 514, I made this email in 2010 expecting it to be 🐔)
 
 - 📄 Here is my [Resume](https://github.com/VelaSam/velasam/raw/main/docs/resume.pdf)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velasam&show_icons=true&locale=en&layout=compact" alt="velasam" />
+
+<div align="left"> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velasam&" alt="velasam" /></p>
+</div>
