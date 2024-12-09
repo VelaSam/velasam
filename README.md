@@ -7,11 +7,11 @@
 - 🔭 Finishing school and giving computer science labs
 
 - 🌱 I’m currently learning Rust, Operating Systems and React Native with Expo
-
-- 📫 Reach me at svelasco514@gmail.com (no my phone # doesn't start by 514, I made this email in 2010 expecting it to be 🐔)
+ 
+- 👨‍💻Yes I use Vim, not it doesn't make me a better dev than you (unlike what some may believe :D )
 
 - ⚡ Fun fact: The first emoji was created in 1999 by a Japanese designer to help improve communication on the web. 😊💼
 
-- 👨‍💻Yes I use Vim, not it doesn't make me a better dev than you (unlike what some may believe :D )
+- 📫 Reach me at svelasco514@gmail.com (no my phone # doesn't start by 514, I made this email in 2010 expecting it to be 🐔)
 
 - 📄 Here is my [Resume](https://github.com/VelaSam/velasam/raw/main/docs/resume.pdf)
