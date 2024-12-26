@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Rust, Operating Systems and React Native with Expo
  
-- 👨‍💻Yes I use Vim, not it doesn't make me a better dev than you (unlike what some may believe :D )
+- 👨‍💻Yes I use Vim, ~~not it doesn't make me a better dev than you~~
 
 - ⚡ Fun fact: The first emoji was created in 1999 by a Japanese designer to help improve communication on the web. 😊💼
 
