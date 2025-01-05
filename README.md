@@ -10,8 +10,6 @@
  
 - 👨‍💻Yes I use Vim, ~~no it doesn't make me a better dev than you~~
 
-- ⚡ Fun fact: The first emoji was created in 1999 by a Japanese designer to help improve communication on the web. 😊💼
-
 - 📫 Reach me at svelasco514@gmail.com (no my phone # doesn't start by 514, I made this email in 2010 expecting it to be 🐔)
 
 - 📄 Here is my [Resume](https://github.com/VelaSam/velasam/raw/main/docs/resume.pdf)
