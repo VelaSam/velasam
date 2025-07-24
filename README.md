@@ -33,11 +33,6 @@
 📟 I once wrote a bash script that mocked systemd.
 
 
-📫 svelasco514@gmail.com – yes, that’s Gmail. I'm not that far gone. Yet.
-
-
-- 📄 [My resume compiles](https://github.com/VelaSam/velasam/raw/main/docs/resume.pdf)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velasam&show_icons=true&locale=en&layout=compact" alt="velasam" />
 
 <div align="left"> 
